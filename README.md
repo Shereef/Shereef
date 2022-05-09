@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning lots of new skill re:aws
 - 📫 How to reach me: sheefoz gmail
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a father of three and I volunteer a lot
+- ⚡ Fact: I am a father of three and I volunteer a lot
 
