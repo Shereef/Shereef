@@ -54,6 +54,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shereefz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shereefz" /></a><a href="https://ko-fi.com/shereef"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="shereef" /></a></p><br><br><br><br><br><br><br><br>
 
+### The below doesn't contain private repos
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shereef&show_icons=true&locale=en&layout=compact" alt="shereef" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shereef&show_icons=true&locale=en" alt="shereef" /></p>
