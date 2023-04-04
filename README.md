@@ -62,5 +62,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shereef&" alt="shereef" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shereef)
 
