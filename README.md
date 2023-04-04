@@ -61,3 +61,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shereef&show_icons=true&locale=en" alt="shereef" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shereef&" alt="shereef" /></p>
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shereef)
+
