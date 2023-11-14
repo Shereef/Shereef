@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shereef Marzouk</h1>
-<h3 align="center">A Team lead full stack engineer @ DaySmart</h3>
+<h3 align="center">A Staff software engineer @ DaySmart</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shereef&label=Profile%20views&color=0e75b6&style=flat" alt="shereef" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shereefz" target="blank"><img src="https://img.shields.io/twitter/follow/shereefz?logo=twitter&style=for-the-badge" alt="shereefz" /></a> </p>
 
-- 🔭 I’m currently working on [DaySmart Booking](https://github.com/DaySmart/daysmart-booking)
+- 🔭 I’m currently working on modernizing legacy tech.
 
 - 🌱 I’m currently learning **lots of new skill re:aws**
 
